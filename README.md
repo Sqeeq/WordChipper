@@ -1,2 +1,2 @@
-# WordChipper
-Project for English 507 at UVic
+# Word Chipper
+Project for English 507 at UVic (Summer 2017)
